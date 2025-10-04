@@ -1,0 +1,17 @@
+{
+  "name": "pomodoro-calisthenics-api",
+  "version": "1.0.0",
+  "description": "API para exercícios de calistenia integrada ao Pomodoro para app de foco em estudos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
